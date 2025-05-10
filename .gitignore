@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+.env.*.local
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+out/
+
+# Dependency directories
+jspm_packages/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Misc
+*.tgz
+*.swp
+
+# Parcel cache
+.cache/
+
+# Next.js build output
+.next/
+
+# React Native
+.expo/
+.expo-shared/
+
+# Firebase cache
+.firebase/
+
+# Local env files
+*.local
+
+# VS Code workspace files
+*.code-workspace
